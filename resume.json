@@ -1,0 +1,124 @@
+{
+  "name": "John Rickerd",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+  "info": {
+    "label": "Senior Developer",
+    "characterClass": "Programmer",
+    "brief": "**Full-stack software developer with 20 years industry experience** specializing in cloud-driven web applications and mobile apps.",
+    "image": "jane_doe.png"
+  },
+  "contact": {
+    "website": "http://resume.rickerd.org",
+    "phone": "1.208.395.1290",
+    "email": "john@rickerd.org",
+    "other": [
+      {
+        "label": "Home Phone",
+        "flavor": "phone",
+        "value": "1.208.395.1290"
+      },
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "john@rickerd.org"
+      }
+    ]
+  },
+  "location": {
+    "address": "John Rickerd\n11026 W. Ustick #105\nBoise, ID 83713",
+    "city": "Boise",
+    "region": "ID",
+    "code": "83713",
+    "country": "US"
+  },
+  "employment": {
+    "summary": "20 years industry IT and software development experience.",
+    "history": [
+      {
+        "employer": "Declara",
+        "url": "https://declara.com",
+        "position": "Software Developer",
+        "summary": "Fullstack and Mobile Developer",
+        "start": "2014-01",
+        "keywords": ["Agile","Xamarin","C#","Android","iOS","Objective-C","Spring","Java","MySQL","PostgreSQL","JIRA","Python","Django"],
+        "highlights": [""]
+      },
+      {
+        "employer": "Behavior Imaging",
+        "url": "https://behaviorimaging.com/",
+        "position": "Director of Technology",
+        "summary": "Oversaw development of autism assessment platform and app.",
+        "start": "2012-01",
+        "end": "2014-01",
+        "keywords": ["PHP","MySQL","Linux","AWS"],
+        "highlights": [""]
+      },
+      {
+        "employer": "Blackfin/XTreme Consulting",
+        "position": "Software Engineer",
+        "summary": "Software development consultant",
+        "start": "2006-05",
+        "end": "2012-01",
+        "keywords": ["C#","SqlServer","Linux","Windows","Drupal","PHP", "VBA", "ASP.NET MVC"],
+        "highlights": [
+            "Maintained and improved Idaho Department of Labor Unemployment Insurance fraud tracking web application.", 
+            "Built rules-driven Finance application for Microsoft to generate loan offer information.", 
+            "Idaho State Department of Education Longitudinal Data System – worked on ASP.NET MVC user applications, Schoolnet data integration and general reporting.",
+            "Developed several Drupal sites – evaluated various PHP CMS offerings, developed expertise with Drupal and trained other engineers in Drupal development and deploy techniques."
+        ]
+      },
+      {
+        "employer": "Hewlett Packard",
+        "position": "Software Engineer",
+        "summary": "",
+        "start": "2001-01",
+        "end": "2005-06",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "summary": "",
+    "level": "degree",
+    "degree": "BS",
+    "history": [
+      {
+        "institution": "Boise State University",
+        "title": "BS",
+        "end": "2000-05",
+        "grade": "3.5",
+        "summary": "Computer Science and Mathematics."
+      },
+      {
+        "institution": "University of Idaho",
+        "title": "BA",
+        "end": "1991-05",
+        "summary": "Classical Languages.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "jrickerd",
+      "url": "https://github.com/jrickerd"
+    }
+  ],
+  "skills": {
+    "sets": [
+      {
+        "name": "Web",
+        "level": "advanced",
+        "skills": [
+          "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
+        ]
+      }
+    ]
+  }
+}
